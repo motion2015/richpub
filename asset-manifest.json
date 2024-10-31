@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/richpub/static/css/main.98b13edb.css",
+    "main.js": "/richpub/static/js/main.80f6672a.js",
+    "index.html": "/richpub/index.html",
+    "main.98b13edb.css.map": "/richpub/static/css/main.98b13edb.css.map",
+    "main.80f6672a.js.map": "/richpub/static/js/main.80f6672a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98b13edb.css",
+    "static/js/main.80f6672a.js"
+  ]
+}
