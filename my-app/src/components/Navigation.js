@@ -5,8 +5,10 @@ function Navigation() {
     return (
         <>
             <div className='nav'>
-                <Link to={"/"}>Home</Link>
-                <Link to={'/about'} state={{ fromNavgation: true }}>About</Link>
+                <div className='ui__wrap'>
+                    <Link to={"/"}>Home</Link>
+                    <Link to={'/about'} state={{ fromNavgation: true }}>About</Link>
+                </div>
             </div>
             <Outlet />
         </>
